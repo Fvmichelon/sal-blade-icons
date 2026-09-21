@@ -1,132 +1,394 @@
+# sal-blade-icons
 
-# @phosphor-icons/core
+Composer package of SVG icons for Laravel Blade Icons.
 
-<!-- BEGIN_LOGO -->
-<img src="/.github/logo.png" width="128" align="right" />
-<!-- END_LOGO -->
+**Based on Phosphor Icons (MIT).**
 
-This repository hosts the raw SVGs and catalog data – including tags, categories, and release versions – of all icons in the [Phosphor Icons](https://phosphoricons.com) family. It serves as the basis for our fuzzy-search on our website and other tools, and as a dev dependency in the build process in some of our framework-specific libraries. You may find this package is useful to you in implementing a port of Phosphor to your preferred framework, or as a source of truth for our current SVG assets.
+This git repo **is** the package. Published files live in `resources/svg/` and are committed. Consumer apps do not copy thousands of SVGs into their own git.
 
-[![NPM](https://img.shields.io/npm/v/@phosphor-icons/core.svg?style=flat-square)](https://www.npmjs.com/package/@phosphor-icons/core)
-[![GitHub stars](https://img.shields.io/github/stars/phosphor-icons/core?style=flat-square&label=Star)](https://github.com/phosphor-icons/core)
-[![GitHub forks](https://img.shields.io/github/forks/phosphor-icons/core?style=flat-square&label=Fork)](https://github.com/phosphor-icons/core/fork)
-[![GitHub watchers](https://img.shields.io/github/watchers/phosphor-icons/core?style=flat-square&label=Watch)](https://github.com/phosphor-icons/core)
-[![Follow on GitHub](https://img.shields.io/github/followers/rektdeckard?style=flat-square&label=Follow)](https://github.com/rektdeckard)
+| Variant | File | Blade |
+| --- | --- | --- |
+| `regular` (real stroke) | `house.svg` | `<x-sal-house />` |
+| `fill` | `house-fill.svg` | `<x-sal-house-fill />` |
+| `duotone` | `house-duotone.svg` | `<x-sal-house-duotone />` |
 
-## Installation
+There are no `thin`, `light`, or `bold` weights. `stroke-width` / `skw-…` classes only apply to **regular**.
+
+Package name: `sal/sal-blade-icons`  
+GitHub: https://github.com/Fvmichelon/sal-blade-icons  
+Composer version = **git tag** (e.g. `v1.0.0`). There is no `"version"` field in `composer.json`.
+
+---
+
+## Agent prompt (copy this)
+
+Open a **new** agent chat in this repo. Paste the block below, then paste the SVG code and/or attach the `.svg` file(s). Add a name if you already have one (`--name="parking meter"`). If you omit name or variant, the agent infers them.
+
+```text
+You are in the sal-blade-icons repo (Composer package sal/sal-blade-icons).
+
+Add the icon(s) I provide in this message (SVG markup and/or .svg files).
+
+Rules you must follow:
+- Families: regular | fill | duotone only. Never thin/light/bold.
+- regular = outline with REAL stroke, viewBox "0 0 256 256". fill = solid currentColor, no CSS stroke. duotone = two layers, keep opacity (typically 0.2 + solid), no CSS stroke.
+- 24×24 canvases are invalid as-is. Rescale the artwork into viewBox 0 0 256 256 before adding. Do not mix stroke-width scales (16 on 256 ≠ 2 on 24).
+- Reject <script>, on* handlers, foreignObject, javascript: / http(s): hrefs. Prefer pnpm icons:add (it sanitizes).
+- Do NOT write by hand into resources/svg/. Save drafts under drafts/ (gitignored), then run:
+  pnpm icons:add --name="human name" --variant=regular --file=drafts/whatever.svg
+  Repeat per variant if I gave fill/duotone too.
+- Slug = kebab-case from the name. If that slug+variant already exists, STOP and tell me. Completing a missing variant of an existing slug is OK.
+- If I did not specify variant: outline/stroke → regular; solid filled → fill; two opacities → duotone.
+- If I did not specify a name: derive a short English kebab-case slug from the file or the drawing.
+- After each add, the CLI writes assets/{variant}/{slug}.svg AND resources/svg/{slug}.svg (or -fill / -duotone) and updates catalog/icons.json.
+- Run pnpm test. Update CHANGELOG.md [Unreleased] with the new slug(s).
+- Do not git tag, do not push, do not commit unless I explicitly ask. Do not build a web UI.
+- Read README.md sections "Add a new icon" and "What the SVG should look like" if unsure.
+
+Then reply with: slug, variant(s), flatten path(s), Blade <x-sal-… />, and whether a new Composer tag is still needed for apps to see it (yes).
+```
+
+After the agent finishes, publish a new package version (tag) so other Laravel apps can `composer update` — see [Publish a new version](#2-publish-a-new-version-after-the-first-release) below.
+
+---
+
+## 1. Publish the package (first time)
+
+The code is already on `main` at https://github.com/Fvmichelon/sal-blade-icons. Composer does **not** use a version in `composer.json`. Apps only see a release after a **semver git tag**.
+
+There is no tag yet. First release is `v1.0.0`.
+
+### A. Tag the current `main`
+
+On a clean working tree, in this repo:
 
 ```bash
-pnpm add @phosphor-icons/core
-#^ or whatever package manager you use
+git checkout main
+git pull origin main
+git tag v1.0.0
+git push origin v1.0.0
 ```
 
-## Assets
+Check the tag on GitHub: **Releases** or `https://github.com/Fvmichelon/sal-blade-icons/releases/tag/v1.0.0`.
 
-This package exposes all icons as SVG assets, grouped by weight, under the `/assets` directory (i.e. `/assets/<weight>/<kebab-name>-<weight>.svg`), and also aliased so that `/assets` can be omitted from the path in projects that support import maps. These files can be used as needed for custom implementations or ports. Your framework and build tooling may require custom type declarations to recognize and transform `"*.svg"` files into modules.
+### B. Register on Packagist (public — preferred)
 
-### Example
+Do this **once**. After that, each new tag can update automatically.
 
-```ts
-import ghostDuotone from "@phosphor-icons/core/duotone/ghost-duotone.svg";
+1. Sign in at [packagist.org](https://packagist.org) with GitHub.
+2. Confirm you can publish under the vendor **`sal`**. Packagist vendor names are claimed per account. If submit fails because `sal` is taken or not yours, either get access to that vendor or change `"name"` in `composer.json` (and this README) to a vendor you own, then commit before tagging.
+3. [Submit package](https://packagist.org/packages/submit) → Git repository URL:
+
+   `https://github.com/Fvmichelon/sal-blade-icons`
+
+4. Packagist should create a GitHub webhook. Confirm under the GitHub repo **Settings → Webhooks**. If the hook is missing, on the Packagist package page use **Update** after each tag, or add the hook from Packagist’s package settings.
+5. Wait until the package page shows version `1.0.0`.
+
+Until Packagist is live, other projects can still install via Git VCS (step 3 below).
+
+### C. Private Packagist / Satis
+
+If you already have a private mirror: point that mirror at the same git repo + tags. Do not invent a second registry.
+
+---
+
+## 2. Publish a new version (after the first release)
+
+Use this every time you add or fix icons.
+
+| Change | Bump |
+| --- | --- |
+| New icons / SVG / catalog | **minor** `v1.x.0` (or **patch** `v1.0.x` if you only corrected an already published SVG) |
+| Large upstream icon sync | minor, or major if names break |
+| PHP / docs / provider bugfix only | patch |
+
+```bash
+# clean tree, on main
+pnpm test && pnpm build:icons
+# edit CHANGELOG.md (move [Unreleased] items into the new version heading)
+
+git add -A
+git commit -m "feat(icons): add {slug}"
+git push origin main
+
+git tag v1.1.0
+git push origin v1.1.0
 ```
 
-Using [SVGR](https://react-svgr.com/docs/webpack/#use-with-url-loader-or-file-loader) (includes `create-react-app` projects):
+If the Packagist webhook is connected, the new version appears on its own. Otherwise click **Update** on the Packagist package page.
 
-```tsx
-import { ReactComponent as GhostDuotone } from "@phosphor-icons/core/duotone/ghost-duotone.svg";
+Apps do **not** see the icon until they install/update that tag. Do not hand-edit the consumer’s `composer.lock` to inject SVGs.
+
+---
+
+## 3. `composer require` in another Laravel project
+
+Pick **one** install mode.
+
+### Mode 1 — Packagist (after step 1.B)
+
+No extra `repositories` entry:
+
+```bash
+cd path/to/laravel-app
+composer require sal/sal-blade-icons
+php artisan icons:cache
 ```
 
-## Catalog
+Later, after a new tag:
 
-This package exposes a named export `icons`, which is an array of `IconEntry` objects represententing each icon, its name in both `kebab-case` and `PascalCase`, the categories and tags associated with it, as well as the version it was published in and the most recent version it was updated in.
+```bash
+composer update sal/sal-blade-icons
+php artisan icons:cache
+```
 
-It also includes an optional `alias` field, which if present, contains deprecated names for the icon for backwards-compatibility purposes, and a `codepoint` field, which is a stable decimal representation of its Unicode code point in font implementations such as [@phosphor-icons/web](https://github.com/phosphor-icons/web) and [@phosphor-icons/flutter](https://github.com/phosphor-icons/flutter).
+### Mode 2 — GitHub VCS (works as soon as `v1.0.0` exists; no Packagist)
 
-```ts
-interface IconEntry {
-  name: string; // "cloud-lightning"
-  pascal_name: string; // "CloudLightning"
-  alias?: {
-    name: string;
-    pascal_name: string;
-  };
-  codepoint: number;
-  categories: readonly IconCategory[]; // ["weather"]
-  tags: readonly string[]; // ["*updated*", "meteorology", "cloudy", "overcast", "stormy", "thunderstorm"]
-  published_in: number; // 1.0
-  updated_in: number; // 1.4
+In the **Laravel app** `composer.json`:
+
+```json
+{
+  "repositories": [
+    {
+      "type": "vcs",
+      "url": "https://github.com/Fvmichelon/sal-blade-icons.git"
+    }
+  ]
 }
 ```
 
-> [!NOTE]
-> Duotone icons rely on overlaying two glyphs (a background and foreground layer), and thus use 2 codepoints. All codepoint bases are even numbers, so the codepoints associated with duotone icons are `codepoint` and `codepoint + 1`. The `codepoint` feature is not yet stabilized, and should only be relied upon in versions `>=2.1.0`.
+Private clone: use `git@github.com:Fvmichelon/sal-blade-icons.git` and an SSH key (or HTTPS credentials) on that machine.
 
-An additional type export, `PhosphorIcon`, represents the literal type of the `icons` list. You can use it to extract narrowed types such as *valid icon names*, which can be useful for constraining parameter types in ports:
-
-```ts
-type IconName = PhosphorIcon["name"];
-/* type IconName = "function" | "address-book" | "air-traffic-control" | "buildings" | "airplane" |
- *                 "airplane-in-flight" | "airplane-landing" | "airplane-takeoff" | "airplane-tilt" |
- *                 "airplay" | ... 1237 more ... | "youtube-logo"
- */
+```bash
+composer require sal/sal-blade-icons:^1.0
+php artisan icons:cache
 ```
 
-<!-- BEGIN_LINKS -->
-## Our Projects
+The constraint still resolves to **tags** (`v1.0.0`, `v1.1.0`, …). `dev-main` is only for local experiments, not production.
 
-- [@phosphor-icons/homepage](https://github.com/phosphor-icons/homepage) ▲ Phosphor homepage and general info
-- [@phosphor-icons/core](https://github.com/phosphor-icons/core) ▲ Phosphor icon assets and catalog
-- [@phosphor-icons/elm](https://github.com/phosphor-icons/phosphor-elm) ▲ Phosphor icons for Elm
-- [@phosphor-icons/figma](https://github.com/phosphor-icons/figma) ▲ Phosphor icons Figma plugin
-- [@phosphor-icons/flutter](https://github.com/phosphor-icons/flutter) ▲ Phosphor IconData library for Flutter
-- [@phosphor-icons/pack](https://github.com/phosphor-icons/pack) ▲ Phosphor web font stripper to generate minimal icon bundles
-- [@phosphor-icons/penpot](https://github.com/phosphor-icons/penpot) ▲ Phosphor icons Penpot plugin
-- [@phosphor-icons/react](https://github.com/phosphor-icons/react) ▲ Phosphor icon component library for React
-- [@phosphor-icons/sketch](https://github.com/phosphor-icons/sketch) ▲ Phosphor icons Sketch plugin
-- [@phosphor-icons/swift](https://github.com/phosphor-icons/swift) ▲ Phosphor icon component library for SwiftUI
-- [@phosphor-icons/theme](https://github.com/phosphor-icons/theme) ▲ A VS Code (and other IDE) theme with the Phosphor color palette
-- [@phosphor-icons/unplugin](https://github.com/phosphor-icons/unplugin) ▲ A multi-framework bundler plugin for generating Phosphor sprite sheets
-- [@phosphor-icons/vue](https://github.com/phosphor-icons/vue) ▲ Phosphor icon component library for Vue
-- [@phosphor-icons/web](https://github.com/phosphor-icons/web) ▲ Phosphor icons for Vanilla JS
-- [@phosphor-icons/webcomponents](https://github.com/phosphor-icons/webcomponents) ▲ Phosphor icons as Web Components
+### Mode 3 — Path (this machine only, before you tag)
 
-## Community Projects
+In the Laravel app `composer.json`, with this repo as a sibling directory:
 
-- [adamglin0/compose-phosphor-icons](https://github.com/adamglin0/compose-phosphor-icon) ▲ Phosphor icons for Compose Multiplatform
-- [altdsoy/phosphor_icons](https://github.com/altdsoy/phosphor_icons) ▲ Phosphor icons for Phoenix and TailwindCSS
-- [amPerl/egui-phosphor](https://github.com/amperl/egui-phosphor) ▲ Phosphor icons for egui apps (Rust)
-- [babakfp/phosphor-icons-svelte](https://github.com/babakfp/phosphor-icons-svelte) ▲ Phosphor icons for Svelte apps
-- [brettkolodny/phosphor-lustre](https://github.com/brettkolodny/phosphor-lustre) ▲ Phosphor icons for Lustre
-- [cellularmitosis/phosphor-uikit](https://github.com/cellularmitosis/phosphor-uikit) ▲ XCode asset catalog generator for Phosphor icons (Swift/UIKit)
-- [cjohansen/phosphor-clj](https://github.com/cjohansen/phosphor-clj) ▲ Phosphor icons as Hiccup for Clojure and ClojureScript
-- [codeat3/blade-phosphor-icons](https://github.com/codeat3/blade-phosphor-icons) ▲ Phosphor icons in your Laravel Blade views
-- [dennym/phosphor_icons_ex](https://github.com/dennym/phosphor_icons_ex) ▲ Phosphor icons for Elixir, Phoenix and Ash
-- [dreamRs/phosphor-r](https://github.com/dreamRs/phosphoricons) ▲ Phosphor icon wrapper for R documents and applications
-- [duongdev/phosphor-react-native](https://github.com/duongdev/phosphor-react-native) ▲ Phosphor icon component library for React Native
-- [haruaki07/phosphor-svelte](https://github.com/haruaki07/phosphor-svelte) ▲ Phosphor icons for Svelte apps
-- [IgnaceMaes/ember-phosphor-icons](https://github.com/IgnaceMaes/ember-phosphor-icons) ▲ Phosphor icons for Ember apps
-- [iota-uz/icons](https://github.com/iota-uz/icons) ▲ Phosphor icons as Templ components (Go)
-- [jajuma/phosphorhyva](https://github.com/JaJuMa-GmbH/phosphor-hyva) ▲ Phosphor icons for Magento 2 & Mage-OS with Hyvä Theme
-- [Kitten](https://kitten.small-web.org/reference/#icons) ▲ Phosphor icons integrated by default in Kitten
-- [lucagoslar/phosphor-css](https://github.com/lucagoslar/phosphor-css) ▲ CSS wrapper for Phosphor SVG icons
-- [maful/ruby-phosphor-icons](https://github.com/maful/ruby-phosphor-icons) ▲ Phosphor icons for Ruby and Rails applications
-- [meadowsys/phosphor-svgs](https://github.com/meadowsys/phosphor-svgs) ▲ Phosphor icons as Rust string constants
-- [mwood/tamagui-phosphor-icons](https://github.com/mwood23/tamagui-phosphor-icons) ▲ Phosphor icons for Tamagui
-- [noozo/phosphoricons_elixir](https://github.com/noozo/phosphoricons_elixir) ▲ Phosphor icons as SVG strings for Elixir/Phoenix
-- [oyedejioyewole/nuxt-phosphor-icons](https://github.com/oyedejioyewole/nuxt-phosphor-icons) ▲ Phosphor icons integration for Nuxt
-- [pepaslabs/phosphor-uikit](https://github.com/pepaslabs/phosphor-uikit) ▲ Xcode asset catalog generator for Swift/UIKit
-- [raycast/phosphor-icons](https://www.raycast.com/marinsokol/phosphor-icons) ▲ Phosphor icons Raycast extension
-- [reatlat/eleventy-plugin-phosphoricons](https://github.com/reatlat/eleventy-plugin-phosphoricons) ▲ An Eleventy shortcode plugin to embed icons as inline SVGs
-- [robruiz/wordpress-phosphor-icons-block](https://github.com/robruiz/phosphor-icons-block) ▲ Phosphor icon block for use in WordPress v5.8+
-- [sachaw/solid-phosphor](https://github.com/sachaw/solid-phosphor) ▲ Phosphor icons for SolidJS
-- [SeanMcP/phosphor-astro](https://github.com/SeanMcP/phosphor-astro) ▲ Phosphor icons as Astro components
-- [SorenHolstHansen/phosphor-leptos](https://github.com/SorenHolstHansen/phosphor-leptos) ▲ Phosphor icon component library for Leptos apps (Rust)
-- [vnphanquang/phosphor-icons-tailwindcss](https://github.com/vnphanquang/phosphor-icons-tailwindcss) ▲ TailwindCSS plugin for Phosphor icons
-- [wireui/phosphoricons](https://github.com/wireui/phosphoricons) ▲ Phosphor icons for Laravel
+```json
+{
+  "repositories": [
+    {
+      "type": "path",
+      "url": "../sal-blade-icons",
+      "options": { "symlink": true }
+    }
+  ]
+}
+```
 
-If you've made a port of Phosphor and you want to see it here, just open a PR [here](https://github.com/phosphor-icons/homepage)!
+```bash
+composer require sal/sal-blade-icons:@dev
+```
+
+Useful to preview an icon before tagging. Not a distribution method.
+
+---
+
+## 4. Use the icons in the app
+
+Blade prefix is `sal` (`config/sal-icons.php`). Filename → component:
+
+```blade
+<x-sal-house class="w-6 h-6" />
+<x-sal-house-fill class="w-6 h-6 text-slate-900" />
+<x-sal-house-duotone class="w-6 h-6" />
+```
+
+Regular only — CSS can change the stroke (viewBox 256, default `stroke-width="16"` on the `<svg>`):
+
+```blade
+<x-sal-house class="w-8 h-8" style="stroke-width: 12" />
+```
+
+Helper (Blade Icons):
+
+```blade
+{!! svg('sal-house')->class('w-6 h-6') !!}
+```
+
+Optional publish of config:
+
+```bash
+php artisan vendor:publish --tag=sal-blade-icons-config
+```
+
+SVGs install under `vendor/sal/sal-blade-icons/resources/svg`. Run `php artisan icons:cache` on deploy.
+
+---
+
+## Add a new icon (any SVG you found)
+
+Cadastro is **file + CLI**. There is no website or admin UI.
+
+You may start from outline drawings, Figma exports, or an SVG you found — as long as the license allows reuse here (keep MIT attribution in `NOTICE` if you incorporate third-party work).
+
+### 1. Choose the family
+
+| Looks like | Variant | You will get |
+| --- | --- | --- |
+| Outline, line art, CSS should control thickness | `regular` | `resources/svg/{slug}.svg` |
+| Solid silhouette, no outline | `fill` | `resources/svg/{slug}-fill.svg` |
+| Two tones / a faded under-layer + a crisp overlay | `duotone` | `resources/svg/{slug}-duotone.svg` |
+
+Same logical icon can have 1–3 files (regular and/or fill and/or duotone). Each variant is a separate `pnpm icons:add` call.
+
+### 2. Where to put the file **before** the CLI
+
+Put the **draft** anywhere; `drafts/` is the convention (gitignored). Examples:
+
+```text
+drafts/parking-meter.svg              →  --variant=regular
+drafts/parking-meter-fill.svg         →  --variant=fill
+drafts/parking-meter-duotone.svg      →  --variant=duotone
+```
+
+Do **not** drop drafts into:
+
+| Folder | Why not |
+| --- | --- |
+| `resources/svg/` | Published flatten; the CLI writes this after normalize |
+| `raw/regular/` | Upstream stroke snapshot only (`pnpm sync:upstream`) |
+| `assets/thin` etc. | Those weights do not exist |
+
+### 3. Where the CLI writes **after** a successful add
+
+| Variant | Canonical source (keep in git) | Published flatten (what Laravel loads) |
+| --- | --- | --- |
+| regular | `assets/regular/{slug}.svg` | `resources/svg/{slug}.svg` |
+| fill | `assets/fill/{slug}.svg` | `resources/svg/{slug}-fill.svg` |
+| duotone | `assets/duotone/{slug}.svg` | `resources/svg/{slug}-duotone.svg` |
+
+`catalog/icons.json` is updated automatically.
+
+### 4. Run the CLI
+
+```bash
+pnpm install   # first time in this clone
+
+pnpm icons:add --name="parking meter" --variant=regular --file=drafts/parking-meter.svg
+pnpm icons:add --name="parking meter" --variant=fill --file=drafts/parking-meter-fill.svg
+pnpm icons:add --name="parking meter" --variant=duotone --file=drafts/parking-meter-duotone.svg
+
+pnpm test
+```
+
+`--name` becomes a kebab-case slug (`parking-meter`). It must match `[a-z0-9]+(-[a-z0-9]+)*`.
+
+If `resources/svg/parking-meter.svg` already exists, regular is refused (exit ≠ 0, nothing written). You can still add fill/duotone for that slug.
+
+Then commit **this** repo and **tag** a new version (section 2). Until you tag, other projects will not see the icon.
+
+Bulk upstream updates: `pnpm sync:upstream --tag=v2.0.8` then `pnpm build:icons`, not `icons:add`.
+
+---
+
+## What the SVG should look like
+
+All variants:
+
+- Root is `<svg>`, parseable XML.
+- `viewBox="0 0 256 256"`. **Not** a 24×24 canvas.
+- No `width` / `height` required (the CLI strips them).
+- No editor junk needed (`id`, Inkscape/Adobe metadata, comments) — stripped.
+- No `<script>`, `onclick` / other `on*`, `<foreignObject>`, or `href="javascript:…"` / `http(s):…` — those are **rejected**, not silently stripped.
+- Keep it small (limit 100 KB).
+- Prefer `currentColor` (or `#000`; the CLI rewrites black to `currentColor`) so Blade `class="text-…"` works.
+- Do not include a full-canvas spacer `<rect width="256" height="256">`. The CLI removes it; if it stayed, regular icons would draw a frame because stroke lives on the root.
+
+### `regular` (stroke)
+
+Artwork should be **strokes**, not a filled logo pretending to be outline.
+
+After normalize, the root looks like this (children keep `d` / geometry only):
+
+```svg
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+  <path d="M104,216V152h48v64h64V120a8,8,0,0,0-2.34-5.66l-80-80a8,8,0,0,0-11.32,0l-80,80A8,8,0,0,0,40,120v96Z"/>
+</svg>
+```
+
+Drafts may still have `stroke` / `stroke-width` on `<path>` / `<line>`; the CLI **moves** stroke to the root so CSS `stroke-width` on `<x-sal-…>` works.
+
+A typical draft:
+
+```svg
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256">
+  <path d="…" fill="none" stroke="#000" stroke-width="16" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
+```
+
+If you only have a 24×24 outline: scale path coordinates × (256/24) and set `viewBox="0 0 256 256"`. Do not set `stroke-width="2"` on a 256 canvas for regular icons.
+
+### `fill`
+
+Solid shapes. Root `fill="currentColor"`. No presentation `stroke` on the root.
+
+```svg
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" fill="currentColor">
+  <path d="M224,120v96a8,8,0,0,1-8,8H160a8,8,0,0,1-8-8V164…"/>
+</svg>
+```
+
+Keep `fill="none"` on a child only when that child is a hole/cut, not the 256 canvas rect.
+
+### `duotone`
+
+Two (or more) layers. Preserve `opacity` on the light layer (typically `0.2`). Root `fill="currentColor"`. No CSS stroke.
+
+```svg
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" fill="currentColor">
+  <path d="…" opacity="0.2"/>
+  <path d="…"/>
+</svg>
+```
+
+Published duotone uses fill-style layers (`assets/duotone`), not stroke+opacity outlines.
+
+---
+
+## Tooling in this repo
+
+```bash
+pnpm install
+pnpm test
+pnpm build:icons
+pnpm icons:add --name="My Icon" --variant=regular --file=./drafts/my-icon.svg
+pnpm sync:upstream --tag=v2.0.8
+```
+
+- `build:icons` — normalize `raw/regular` + `assets/fill` + `assets/duotone`, write canonical `assets/{variant}/{slug}.svg`, flatten `resources/svg/`, rewrite `catalog/icons.json`.
+- `sync:upstream` — fetch an upstream core tag (three families only) and collate.
+- Regular source of truth is `raw/regular` (stroke). Fill/duotone sources are `assets/fill` and `assets/duotone`.
+
+Upstream pin: `catalog/sync-meta.json`.
+
+---
+
+## Layout
+
+```text
+composer.json                 # sal/sal-blade-icons
+src/SalBladeIconsServiceProvider.php
+config/sal-icons.php          # prefix: sal
+resources/svg/                # flatten published to Laravel (committed)
+assets/{regular,fill,duotone}/
+raw/regular/                  # stroke upstream
+catalog/icons.json
+catalog/sync-meta.json
+drafts/                       # your incoming SVGs (gitignored)
+scripts/                      # normalize, collate, add-icon, sync-upstream
+```
+
+---
 
 ## License
 
-MIT © [Phosphor Icons](https://github.com/phosphor-icons)
-<!-- END_LINKS -->
+MIT. See `LICENSE` and `NOTICE`.
+
+Commercial use and Packagist redistribution are allowed **with** attribution. Do not remove the Phosphor credits in `NOTICE` / `LICENSE`.

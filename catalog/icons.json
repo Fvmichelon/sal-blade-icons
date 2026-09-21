@@ -1,0 +1,12105 @@
+{
+  "variants": [
+    "regular",
+    "fill",
+    "duotone"
+  ],
+  "icons": [
+    {
+      "slug": "acorn",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "address-book",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "address-book-tabs",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "air-traffic-control",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "airplane",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "airplane-in-flight",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "airplane-landing",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "airplane-takeoff",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "airplane-taxiing",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "airplane-tilt",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "airplay",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "alarm",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "alien",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "align-bottom",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "align-bottom-simple",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "align-center-horizontal",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "align-center-horizontal-simple",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "align-center-vertical",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "align-center-vertical-simple",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "align-left",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "align-left-simple",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "align-right",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "align-right-simple",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "align-top",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "align-top-simple",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "amazon-logo",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "ambulance",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "anchor",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "anchor-simple",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "android-logo",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "angle",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "angular-logo",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "aperture",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "app-store-logo",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "app-window",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "apple-logo",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "apple-podcasts-logo",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "approximate-equals",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "archive",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "armchair",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "arrow-arc-left",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "arrow-arc-right",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "arrow-bend-double-up-left",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "arrow-bend-double-up-right",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "arrow-bend-down-left",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "arrow-bend-down-right",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "arrow-bend-left-down",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "arrow-bend-left-up",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "arrow-bend-right-down",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "arrow-bend-right-up",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "arrow-bend-up-left",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "arrow-bend-up-right",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "arrow-circle-down",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "arrow-circle-down-left",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "arrow-circle-down-right",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "arrow-circle-left",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "arrow-circle-right",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "arrow-circle-up",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "arrow-circle-up-left",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "arrow-circle-up-right",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "arrow-clockwise",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "arrow-counter-clockwise",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "arrow-down",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "arrow-down-left",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "arrow-down-right",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "arrow-elbow-down-left",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "arrow-elbow-down-right",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "arrow-elbow-left",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "arrow-elbow-left-down",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "arrow-elbow-left-up",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "arrow-elbow-right",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "arrow-elbow-right-down",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "arrow-elbow-right-up",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "arrow-elbow-up-left",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "arrow-elbow-up-right",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "arrow-fat-down",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "arrow-fat-left",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "arrow-fat-line-down",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "arrow-fat-line-left",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "arrow-fat-line-right",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "arrow-fat-line-up",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "arrow-fat-lines-down",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "arrow-fat-lines-left",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "arrow-fat-lines-right",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "arrow-fat-lines-up",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "arrow-fat-right",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "arrow-fat-up",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "arrow-left",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "arrow-line-down",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "arrow-line-down-left",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "arrow-line-down-right",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "arrow-line-left",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "arrow-line-right",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "arrow-line-up",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "arrow-line-up-left",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "arrow-line-up-right",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "arrow-right",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "arrow-square-down",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "arrow-square-down-left",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "arrow-square-down-right",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "arrow-square-in",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "arrow-square-left",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "arrow-square-out",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "arrow-square-right",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "arrow-square-up",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "arrow-square-up-left",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "arrow-square-up-right",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "arrow-u-down-left",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "arrow-u-down-right",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "arrow-u-left-down",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "arrow-u-left-up",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "arrow-u-right-down",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "arrow-u-right-up",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "arrow-u-up-left",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "arrow-u-up-right",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "arrow-up",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "arrow-up-left",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "arrow-up-right",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "arrows-clockwise",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "arrows-counter-clockwise",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "arrows-down-up",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "arrows-horizontal",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "arrows-in",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "arrows-in-cardinal",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "arrows-in-line-horizontal",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "arrows-in-line-vertical",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "arrows-in-simple",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "arrows-left-right",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "arrows-merge",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "arrows-out",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "arrows-out-cardinal",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "arrows-out-line-horizontal",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "arrows-out-line-vertical",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "arrows-out-simple",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "arrows-split",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "arrows-vertical",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "article",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "article-medium",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "article-ny-times",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "asclepius",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "asterisk",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "asterisk-simple",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "at",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "atom",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "avocado",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "axe",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "baby",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "baby-carriage",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "backpack",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "backspace",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "bag",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "bag-simple",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "balloon",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "bandaids",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "bank",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "barbell",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "barcode",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "barn",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "barricade",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "baseball",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "baseball-cap",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "baseball-helmet",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "basket",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "basketball",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "bathtub",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "battery-charging",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "battery-charging-vertical",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "battery-empty",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "battery-full",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "battery-high",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "battery-low",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "battery-medium",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "battery-plus",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "battery-plus-vertical",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "battery-vertical-empty",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "battery-vertical-full",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "battery-vertical-high",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "battery-vertical-low",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "battery-vertical-medium",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "battery-warning",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "battery-warning-vertical",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "beach-ball",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "beanie",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "bed",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "beer-bottle",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "beer-stein",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "behance-logo",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "bell",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "bell-ringing",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "bell-simple",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "bell-simple-ringing",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "bell-simple-slash",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "bell-simple-z",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "bell-slash",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "bell-z",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "belt",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "bezier-curve",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "bicycle",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "binary",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "binoculars",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "biohazard",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "bird",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "blueprint",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "bluetooth",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "bluetooth-connected",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "bluetooth-slash",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "bluetooth-x",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "boat",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "bomb",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "bone",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "book",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "book-bookmark",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "book-open",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "book-open-text",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "book-open-user",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "bookmark",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "bookmark-simple",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "bookmarks",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "bookmarks-simple",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "books",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "boot",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "boules",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "bounding-box",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "bowl-food",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "bowl-steam",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "bowling-ball",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "box-arrow-down",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "box-arrow-up",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "boxing-glove",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "brackets-angle",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "brackets-curly",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "brackets-round",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "brackets-square",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "brain",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "brandy",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "bread",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "bridge",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "briefcase",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "briefcase-metal",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "broadcast",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "broom",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "browser",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "browsers",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "bug",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "bug-beetle",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "bug-droid",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "building",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "building-apartment",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "building-office",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "buildings",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "bulldozer",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "bus",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "butterfly",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "cable-car",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "cactus",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "cake",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "calculator",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "calendar",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "calendar-blank",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "calendar-check",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "calendar-dot",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "calendar-dots",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "calendar-heart",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "calendar-minus",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "calendar-plus",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "calendar-slash",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "calendar-star",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "calendar-x",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "call-bell",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "camera",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "camera-plus",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "camera-rotate",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "camera-slash",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "campfire",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "car",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "car-battery",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "car-profile",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "car-simple",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "cardholder",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "cards",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "cards-three",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "caret-circle-double-down",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "caret-circle-double-left",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "caret-circle-double-right",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "caret-circle-double-up",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "caret-circle-down",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "caret-circle-left",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "caret-circle-right",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "caret-circle-up",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "caret-circle-up-down",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "caret-double-down",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "caret-double-left",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "caret-double-right",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "caret-double-up",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "caret-down",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "caret-left",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "caret-line-down",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "caret-line-left",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "caret-line-right",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "caret-line-up",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "caret-right",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "caret-up",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "caret-up-down",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "carrot",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "cash-register",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "cassette-tape",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "castle-turret",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "cat",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "cell-signal-full",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "cell-signal-high",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "cell-signal-low",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "cell-signal-medium",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "cell-signal-none",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "cell-signal-slash",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "cell-signal-x",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "cell-tower",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "certificate",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "chair",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "chalkboard",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "chalkboard-simple",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "chalkboard-teacher",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "champagne",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "charging-station",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "chart-bar",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "chart-bar-horizontal",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "chart-donut",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "chart-line",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "chart-line-down",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "chart-line-up",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "chart-pie",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "chart-pie-slice",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "chart-polar",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "chart-scatter",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "chat",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "chat-centered",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "chat-centered-dots",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "chat-centered-slash",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "chat-centered-text",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "chat-circle",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "chat-circle-dots",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "chat-circle-slash",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "chat-circle-text",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "chat-dots",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "chat-slash",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "chat-teardrop",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "chat-teardrop-dots",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "chat-teardrop-slash",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "chat-teardrop-text",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "chat-text",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "chats",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "chats-circle",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "chats-teardrop",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "check",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "check-circle",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "check-fat",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "check-square",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "check-square-offset",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "checkerboard",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "checks",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "cheers",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "cheese",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "chef-hat",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "cherries",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "church",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "cigarette",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "cigarette-slash",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "circle",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "circle-dashed",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "circle-half",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "circle-half-tilt",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "circle-notch",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "circles-four",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "circles-three",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "circles-three-plus",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "circuitry",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "city",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "clipboard",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "clipboard-text",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "clock",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "clock-afternoon",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "clock-clockwise",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "clock-countdown",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "clock-counter-clockwise",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "clock-user",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "closed-captioning",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "cloud",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "cloud-arrow-down",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "cloud-arrow-up",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "cloud-check",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "cloud-fog",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "cloud-lightning",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "cloud-moon",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "cloud-rain",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "cloud-slash",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "cloud-snow",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "cloud-sun",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "cloud-warning",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "cloud-x",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "clover",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "club",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "coat-hanger",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "coda-logo",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "code",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "code-block",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "code-simple",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "codepen-logo",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "codesandbox-logo",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "coffee",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "coffee-bean",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "coin",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "coin-vertical",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "coins",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "columns",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "columns-plus-left",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "columns-plus-right",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "command",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "compass",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "compass-rose",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "compass-tool",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "computer-tower",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "confetti",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "contactless-payment",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "control",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "cookie",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "cooking-pot",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "copy",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "copy-simple",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "copyleft",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "copyright",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "corners-in",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "corners-out",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "couch",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "court-basketball",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "cow",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "cowboy-hat",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "cpu",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "crane",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "crane-tower",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "credit-card",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "cricket",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "crop",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "cross",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "crosshair",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "crosshair-simple",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "crown",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "crown-cross",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "crown-simple",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "cube",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "cube-focus",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "cube-transparent",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "currency-btc",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "currency-circle-dollar",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "currency-cny",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "currency-dollar",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "currency-dollar-simple",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "currency-eth",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "currency-eur",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "currency-gbp",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "currency-inr",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "currency-jpy",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "currency-krw",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "currency-kzt",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "currency-ngn",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "currency-rub",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "cursor",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "cursor-click",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "cursor-text",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "cylinder",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "database",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "desk",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "desktop",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "desktop-tower",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "detective",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "dev-to-logo",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "device-mobile",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "device-mobile-camera",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "device-mobile-slash",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "device-mobile-speaker",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "device-rotate",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "device-tablet",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "device-tablet-camera",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "device-tablet-speaker",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "devices",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "diamond",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "diamonds-four",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "dice-five",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "dice-four",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "dice-one",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "dice-six",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "dice-three",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "dice-two",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "disc",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "disco-ball",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "discord-logo",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "divide",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "dna",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "dog",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "door",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "door-open",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "dot",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "dot-outline",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "dots-nine",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "dots-six",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "dots-six-vertical",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "dots-three",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "dots-three-circle",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "dots-three-circle-vertical",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "dots-three-outline",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "dots-three-outline-vertical",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "dots-three-vertical",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "download",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "download-simple",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "dress",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "dresser",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "dribbble-logo",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "drone",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "drop",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "drop-half",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "drop-half-bottom",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "drop-simple",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "drop-slash",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "dropbox-logo",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "ear",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "ear-slash",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "egg",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "egg-crack",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "eject",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "eject-simple",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "elevator",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "empty",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "engine",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "envelope",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "envelope-open",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "envelope-simple",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "envelope-simple-open",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "equalizer",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "equals",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "eraser",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "escalator-down",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "escalator-up",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "exam",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "exclamation-mark",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "exclude",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "exclude-square",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "export",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "eye",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "eye-closed",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "eye-slash",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "eyedropper",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "eyedropper-sample",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "eyeglasses",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "eyes",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "face-mask",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "facebook-logo",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "factory",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "faders",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "faders-horizontal",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "fallout-shelter",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "fan",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "farm",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "fast-forward",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "fast-forward-circle",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "feather",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "fediverse-logo",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "figma-logo",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "file",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "file-archive",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "file-arrow-down",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "file-arrow-up",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "file-audio",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "file-c",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "file-c-sharp",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "file-cloud",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "file-code",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "file-cpp",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "file-css",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "file-csv",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "file-dashed",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "file-doc",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "file-html",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "file-image",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "file-ini",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "file-jpg",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "file-js",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "file-jsx",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "file-lock",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "file-magnifying-glass",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "file-md",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "file-minus",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "file-pdf",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "file-plus",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "file-png",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "file-ppt",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "file-py",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "file-rs",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "file-sql",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "file-svg",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "file-text",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "file-ts",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "file-tsx",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "file-txt",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "file-video",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "file-vue",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "file-x",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "file-xls",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "file-zip",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "files",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "film-reel",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "film-script",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "film-slate",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "film-strip",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "fingerprint",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "fingerprint-simple",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "finn-the-human",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "fire",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "fire-extinguisher",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "fire-simple",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "fire-truck",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "first-aid",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "first-aid-kit",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "fish",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "fish-simple",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "flag",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "flag-banner",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "flag-banner-fold",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "flag-checkered",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "flag-pennant",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "flame",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "flashlight",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "flask",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "flip-horizontal",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "flip-vertical",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "floppy-disk",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "floppy-disk-back",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "flow-arrow",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "flower",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "flower-lotus",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "flower-tulip",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "flying-saucer",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "folder",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "folder-dashed",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "folder-lock",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "folder-minus",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "folder-open",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "folder-plus",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "folder-simple",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "folder-simple-dashed",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "folder-simple-lock",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "folder-simple-minus",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "folder-simple-plus",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "folder-simple-star",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "folder-simple-user",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "folder-star",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "folder-user",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "folders",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "football",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "football-helmet",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "footprints",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "fork-knife",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "four-k",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "frame-corners",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "framer-logo",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "function",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "funnel",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "funnel-simple",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "funnel-simple-x",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "funnel-x",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "game-controller",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "garage",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "gas-can",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "gas-pump",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "gauge",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "gavel",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "gear",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "gear-fine",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "gear-six",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "gender-female",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "gender-intersex",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "gender-male",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "gender-neuter",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "gender-nonbinary",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "gender-transgender",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "ghost",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "gif",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "gift",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "git-branch",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "git-commit",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "git-diff",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "git-fork",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "git-merge",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "git-pull-request",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "github-logo",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "gitlab-logo",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "gitlab-logo-simple",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "globe",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "globe-hemisphere-east",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "globe-hemisphere-west",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "globe-simple",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "globe-simple-x",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "globe-stand",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "globe-x",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "goggles",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "golf",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "goodreads-logo",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "google-cardboard-logo",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "google-chrome-logo",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "google-drive-logo",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "google-logo",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "google-photos-logo",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "google-play-logo",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "google-podcasts-logo",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "gps",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "gps-fix",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "gps-slash",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "gradient",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "graduation-cap",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "grains",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "grains-slash",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "graph",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "graphics-card",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "greater-than",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "greater-than-or-equal",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "grid-four",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "grid-nine",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "guitar",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "hair-dryer",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "hamburger",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "hammer",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "hand",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "hand-arrow-down",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "hand-arrow-up",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "hand-coins",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "hand-deposit",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "hand-eye",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "hand-fist",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "hand-grabbing",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "hand-heart",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "hand-palm",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "hand-peace",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "hand-pointing",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "hand-soap",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "hand-swipe-left",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "hand-swipe-right",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "hand-tap",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "hand-waving",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "hand-withdraw",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "handbag",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "handbag-simple",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "hands-clapping",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "hands-praying",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "handshake",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "hard-drive",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "hard-drives",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "hard-hat",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "hash",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "hash-straight",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "head-circuit",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "headlights",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "headphones",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "headset",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "heart",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "heart-break",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "heart-half",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "heart-straight",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "heart-straight-break",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "heartbeat",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "hexagon",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "high-definition",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "high-heel",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "highlighter",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "highlighter-circle",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "hockey",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "hoodie",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "horse",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "hospital",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "hourglass",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "hourglass-high",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "hourglass-low",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "hourglass-medium",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "hourglass-simple",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "hourglass-simple-high",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "hourglass-simple-low",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "hourglass-simple-medium",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "house",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "house-line",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "house-simple",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "hurricane",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "ice-cream",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "identification-badge",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "identification-card",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "image",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "image-broken",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "image-square",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "images",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "images-square",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "infinity",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "info",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "instagram-logo",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "intersect",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "intersect-square",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "intersect-three",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "intersection",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "invoice",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "island",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "jar",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "jar-label",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "jeep",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "joystick",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "kanban",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "key",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "key-return",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "keyboard",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "keyhole",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "knife",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "ladder",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "ladder-simple",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "lamp",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "lamp-pendant",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "laptop",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "lasso",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "lastfm-logo",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "layout",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "leaf",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "lectern",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "lego",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "lego-smiley",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "less-than",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "less-than-or-equal",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "letter-circle-h",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "letter-circle-p",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "letter-circle-v",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "lifebuoy",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "lightbulb",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "lightbulb-filament",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "lighthouse",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "lightning",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "lightning-a",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "lightning-slash",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "line-segment",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "line-segments",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "line-vertical",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "link",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "link-break",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "link-simple",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "link-simple-break",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "link-simple-horizontal",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "link-simple-horizontal-break",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "linkedin-logo",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "linktree-logo",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "linux-logo",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "list",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "list-bullets",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "list-checks",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "list-dashes",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "list-heart",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "list-magnifying-glass",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "list-numbers",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "list-plus",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "list-star",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "lock",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "lock-key",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "lock-key-open",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "lock-laminated",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "lock-laminated-open",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "lock-open",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "lock-simple",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "lock-simple-open",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "lockers",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "log",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "magic-wand",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "magnet",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "magnet-straight",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "magnifying-glass",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "magnifying-glass-minus",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "magnifying-glass-plus",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "mailbox",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "map-pin",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "map-pin-area",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "map-pin-line",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "map-pin-plus",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "map-pin-simple",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "map-pin-simple-area",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "map-pin-simple-line",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "map-trifold",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "markdown-logo",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "marker-circle",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "martini",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "mask-happy",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "mask-sad",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "mastodon-logo",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "math-operations",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "matrix-logo",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "medal",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "medal-military",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "medium-logo",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "megaphone",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "megaphone-simple",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "member-of",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "memory",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "messenger-logo",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "meta-logo",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "meteor",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "metronome",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "microphone",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "microphone-slash",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "microphone-stage",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "microscope",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "microsoft-excel-logo",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "microsoft-outlook-logo",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "microsoft-powerpoint-logo",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "microsoft-teams-logo",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "microsoft-word-logo",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "minus",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "minus-circle",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "minus-square",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "money",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "money-wavy",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "monitor",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "monitor-arrow-up",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "monitor-play",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "moon",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "moon-stars",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "moped",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "moped-front",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "mosque",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "motorcycle",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "mountains",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "mouse",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "mouse-left-click",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "mouse-middle-click",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "mouse-right-click",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "mouse-scroll",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "mouse-simple",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "music-note",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "music-note-simple",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "music-notes",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "music-notes-minus",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "music-notes-plus",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "music-notes-simple",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "navigation-arrow",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "needle",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "network",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "network-slash",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "network-x",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "newspaper",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "newspaper-clipping",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "not-equals",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "not-member-of",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "not-subset-of",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "not-superset-of",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "notches",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "note",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "note-blank",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "note-pencil",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "notebook",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "notepad",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "notification",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "notion-logo",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "nuclear-plant",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "number-circle-eight",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "number-circle-five",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "number-circle-four",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "number-circle-nine",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "number-circle-one",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "number-circle-seven",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "number-circle-six",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "number-circle-three",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "number-circle-two",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "number-circle-zero",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "number-eight",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "number-five",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "number-four",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "number-nine",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "number-one",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "number-seven",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "number-six",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "number-square-eight",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "number-square-five",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "number-square-four",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "number-square-nine",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "number-square-one",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "number-square-seven",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "number-square-six",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "number-square-three",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "number-square-two",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "number-square-zero",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "number-three",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "number-two",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "number-zero",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "numpad",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "nut",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "ny-times-logo",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "octagon",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "office-chair",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "onigiri",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "open-ai-logo",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "option",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "orange",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "orange-slice",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "oven",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "package",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "paint-brush",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "paint-brush-broad",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "paint-brush-household",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "paint-bucket",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "paint-roller",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "palette",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "panorama",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "pants",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "paper-plane",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "paper-plane-right",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "paper-plane-tilt",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "paperclip",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "paperclip-horizontal",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "parachute",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "paragraph",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "parallelogram",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "park",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "password",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "path",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "patreon-logo",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "pause",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "pause-circle",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "paw-print",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "paypal-logo",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "peace",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "pen",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "pen-nib",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "pen-nib-straight",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "pencil",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "pencil-circle",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "pencil-line",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "pencil-ruler",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "pencil-simple",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "pencil-simple-line",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "pencil-simple-slash",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "pencil-slash",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "pentagon",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "pentagram",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "pepper",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "percent",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "person",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "person-arms-spread",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "person-simple",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "person-simple-bike",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "person-simple-circle",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "person-simple-hike",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "person-simple-run",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "person-simple-ski",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "person-simple-snowboard",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "person-simple-swim",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "person-simple-tai-chi",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "person-simple-throw",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "person-simple-walk",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "perspective",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "phone",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "phone-call",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "phone-disconnect",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "phone-incoming",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "phone-list",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "phone-outgoing",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "phone-pause",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "phone-plus",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "phone-slash",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "phone-transfer",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "phone-x",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "phosphor-logo",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "pi",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "piano-keys",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "picnic-table",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "picture-in-picture",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "piggy-bank",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "pill",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "ping-pong",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "pint-glass",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "pinterest-logo",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "pinwheel",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "pipe",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "pipe-wrench",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "pix-logo",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "pizza",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "placeholder",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "planet",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "plant",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "play",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "play-circle",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "play-pause",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "playlist",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "plug",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "plug-charging",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "plugs",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "plugs-connected",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "plus",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "plus-circle",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "plus-minus",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "plus-square",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "poker-chip",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "police-car",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "polygon",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "popcorn",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "popsicle",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "potted-plant",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "power",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "prescription",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "presentation",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "presentation-chart",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "printer",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "prohibit",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "prohibit-inset",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "projector-screen",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "projector-screen-chart",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "pulse",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "push-pin",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "push-pin-simple",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "push-pin-simple-slash",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "push-pin-slash",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "puzzle-piece",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "qr-code",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "question",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "question-mark",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "queue",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "quotes",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "rabbit",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "racquet",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "radical",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "radio",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "radio-button",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "radioactive",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "rainbow",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "rainbow-cloud",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "ranking",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "read-cv-logo",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "receipt",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "receipt-x",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "record",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "rectangle",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "rectangle-dashed",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "recycle",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "reddit-logo",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "repeat",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "repeat-once",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "replit-logo",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "resize",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "rewind",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "rewind-circle",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "road-horizon",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "robot",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "rocket",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "rocket-launch",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "rows",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "rows-plus-bottom",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "rows-plus-top",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "rss",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "rss-simple",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "rug",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "ruler",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "sailboat",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "scales",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "scan",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "scan-smiley",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "scissors",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "scooter",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "screencast",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "screwdriver",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "scribble",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "scribble-loop",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "scroll",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "seal",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "seal-check",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "seal-percent",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "seal-question",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "seal-warning",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "seat",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "seatbelt",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "security-camera",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "selection",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "selection-all",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "selection-background",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "selection-foreground",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "selection-inverse",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "selection-plus",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "selection-slash",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "shapes",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "share",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "share-fat",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "share-network",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "shield",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "shield-check",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "shield-checkered",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "shield-chevron",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "shield-plus",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "shield-slash",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "shield-star",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "shield-warning",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "shipping-container",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "shirt-folded",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "shooting-star",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "shopping-bag",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "shopping-bag-open",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "shopping-cart",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "shopping-cart-simple",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "shovel",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "shower",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "shrimp",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "shuffle",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "shuffle-angular",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "shuffle-simple",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "sidebar",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "sidebar-simple",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "sigma",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "sign-in",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "sign-out",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "signature",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "signpost",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "sim-card",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "siren",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "sketch-logo",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "skip-back",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "skip-back-circle",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "skip-forward",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "skip-forward-circle",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "skull",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "skype-logo",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "slack-logo",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "sliders",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "sliders-horizontal",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "slideshow",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "smiley",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "smiley-angry",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "smiley-blank",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "smiley-meh",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "smiley-melting",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "smiley-nervous",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "smiley-sad",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "smiley-sticker",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "smiley-wink",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "smiley-x-eyes",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "snapchat-logo",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "sneaker",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "sneaker-move",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "snowflake",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "soccer-ball",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "sock",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "solar-panel",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "solar-roof",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "sort-ascending",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "sort-descending",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "soundcloud-logo",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "spade",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "sparkle",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "speaker-hifi",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "speaker-high",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "speaker-low",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "speaker-none",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "speaker-simple-high",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "speaker-simple-low",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "speaker-simple-none",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "speaker-simple-slash",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "speaker-simple-x",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "speaker-slash",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "speaker-x",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "speedometer",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "sphere",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "spinner",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "spinner-ball",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "spinner-gap",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "spiral",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "split-horizontal",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "split-vertical",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "spotify-logo",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "spray-bottle",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "square",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "square-half",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "square-half-bottom",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "square-logo",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "square-split-horizontal",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "square-split-vertical",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "squares-four",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "stack",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "stack-minus",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "stack-overflow-logo",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "stack-plus",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "stack-simple",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "stairs",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "stamp",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "standard-definition",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "star",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "star-and-crescent",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "star-four",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "star-half",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "star-of-david",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "steam-logo",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "steering-wheel",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "steps",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "stethoscope",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "sticker",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "stool",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "stop",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "stop-circle",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "storefront",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "strategy",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "stripe-logo",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "student",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "subset-of",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "subset-proper-of",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "subtitles",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "subtitles-slash",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "subtract",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "subtract-square",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "subway",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "suitcase",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "suitcase-rolling",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "suitcase-simple",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "sun",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "sun-dim",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "sun-horizon",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "sunglasses",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "superset-of",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "superset-proper-of",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "swap",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "swatches",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "swimming-pool",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "sword",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "synagogue",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "syringe",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "t-shirt",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "table",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "tabs",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "tag",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "tag-chevron",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "tag-simple",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "target",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "taxi",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "tea-bag",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "telegram-logo",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "television",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "television-simple",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "tennis-ball",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "tent",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "terminal",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "terminal-window",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "test-tube",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "text-a-underline",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "text-aa",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "text-align-center",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "text-align-justify",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "text-align-left",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "text-align-right",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "text-b",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "text-columns",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "text-h",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "text-h-five",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "text-h-four",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "text-h-one",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "text-h-six",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "text-h-three",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "text-h-two",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "text-indent",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "text-italic",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "text-outdent",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "text-strikethrough",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "text-subscript",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "text-superscript",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "text-t",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "text-t-slash",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "text-underline",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "textbox",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "thermometer",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "thermometer-cold",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "thermometer-hot",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "thermometer-simple",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "threads-logo",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "three-d",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "thumbs-down",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "thumbs-up",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "ticket",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "tidal-logo",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "tiktok-logo",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "tilde",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "timer",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "tip-jar",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "tipi",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "tire",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "toggle-left",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "toggle-right",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "toilet",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "toilet-paper",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "toolbox",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "tooth",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "tornado",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "tote",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "tote-simple",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "towel",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "tractor",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "trademark",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "trademark-registered",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "traffic-cone",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "traffic-sign",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "traffic-signal",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "train",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "train-regional",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "train-simple",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "tram",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "translate",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "trash",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "trash-simple",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "tray",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "tray-arrow-down",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "tray-arrow-up",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "treasure-chest",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "tree",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "tree-evergreen",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "tree-palm",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "tree-structure",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "tree-view",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "trend-down",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "trend-up",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "triangle",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "triangle-dashed",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "trolley",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "trolley-suitcase",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "trophy",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "truck",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "truck-trailer",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "tumblr-logo",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "twitch-logo",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "twitter-logo",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "umbrella",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "umbrella-simple",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "union",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "unite",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "unite-square",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "upload",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "upload-simple",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "usb",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "user",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "user-check",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "user-circle",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "user-circle-check",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "user-circle-dashed",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "user-circle-gear",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "user-circle-minus",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "user-circle-plus",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "user-focus",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "user-gear",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "user-list",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "user-minus",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "user-plus",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "user-rectangle",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "user-sound",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "user-square",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "user-switch",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "users",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "users-four",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "users-three",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "van",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "vault",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "vector-three",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "vector-two",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "vibrate",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "video",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "video-camera",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "video-camera-slash",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "video-conference",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "vignette",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "vinyl-record",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "virtual-reality",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "virus",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "visor",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "voicemail",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "volleyball",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "wall",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "wallet",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "warehouse",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "warning",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "warning-circle",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "warning-diamond",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "warning-octagon",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "washing-machine",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "watch",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "wave-sawtooth",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "wave-sine",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "wave-square",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "wave-triangle",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "waveform",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "waveform-slash",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "waves",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "webcam",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "webcam-slash",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "webhooks-logo",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "wechat-logo",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "whatsapp-logo",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "wheelchair",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "wheelchair-motion",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "wifi-high",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "wifi-low",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "wifi-medium",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "wifi-none",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "wifi-slash",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "wifi-x",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "wind",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "windmill",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "windows-logo",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "wine",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "wrench",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "x",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "x-circle",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "x-logo",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "x-square",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "yarn",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "yin-yang",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    },
+    {
+      "slug": "youtube-logo",
+      "variants": [
+        "regular",
+        "fill",
+        "duotone"
+      ]
+    }
+  ]
+}

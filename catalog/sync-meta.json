@@ -1,0 +1,14 @@
+{
+  "upstreamRepo": "https://github.com/phosphor-icons/core",
+  "upstreamTag": "v2.0.8",
+  "upstreamCommit": "2b75f3ad12b420c9504ef05df8d2564a28f8500e",
+  "packageCommit": "2b75f3ad12b420c9504ef05df8d2564a28f8500e",
+  "variants": [
+    "regular",
+    "fill",
+    "duotone"
+  ],
+  "note": "This fork HEAD is ahead of the latest GitHub tag v2.0.8 (2026-09). npm @phosphor-icons/core 2.1.1 has no equivalent public git tag. Collate uses the SVG files present in this repository: raw/regular, assets/fill, assets/duotone. thin/light/bold are not published.",
+  "syncedAt": "2026-09-21",
+  "lastBuildAt": "2026-09-21T11:07:37.107Z"
+}
