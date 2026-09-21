@@ -11,7 +11,7 @@ Package versions are **git tags** (for example `v1.0.0`), not a `version` field 
 
 ### Changed
 
-- Package name and PHP namespace are now `sal/sal-blade-icons` and `Sal\SalBladeIcons` (SAL-only branding).
+- Packagist package name is `fvmichelon/sal-blade-icons` (vendor `sal` was already claimed). Blade prefix stays `sal`; PHP namespace stays `Sal\SalBladeIcons`.
 - Documentation trimmed to SAL product docs only (no third-party consumer-app or Blade-package tour links).
 
 ### Added
@@ -23,7 +23,7 @@ Package versions are **git tags** (for example `v1.0.0`), not a `version` field 
 
 ### Added
 
-- Composer package `sal/sal-blade-icons` with Blade prefix `sal`.
+- Composer package `fvmichelon/sal-blade-icons` with Blade prefix `sal`.
 - Three published families only: `regular` (real CSS-controllable stroke), `fill`, and `duotone`.
 - Flattened SVGs in `resources/svg` (`{slug}.svg`, `{slug}-fill.svg`, `{slug}-duotone.svg`).
 - CLI: `pnpm build:icons`, `pnpm icons:add`, `pnpm sync:upstream`.

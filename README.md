@@ -14,7 +14,7 @@ This git repo **is** the package. Published files live in `resources/svg/` and a
 
 There are no `thin`, `light`, or `bold` weights. `stroke-width` / `skw-…` classes only apply to **regular**.
 
-Package name: `sal/sal-blade-icons`  
+Package name: `fvmichelon/sal-blade-icons`  
 GitHub: https://github.com/Fvmichelon/sal-blade-icons  
 Composer version = **git tag** (e.g. `v1.0.0`). There is no `"version"` field in `composer.json`.
 
@@ -25,7 +25,7 @@ Composer version = **git tag** (e.g. `v1.0.0`). There is no `"version"` field in
 Open a **new** agent chat in this repo. Paste the block below, then paste the SVG code and/or attach the `.svg` file(s). Add a name if you already have one (`--name="parking meter"`). If you omit name or variant, the agent infers them.
 
 ```text
-You are in the sal-blade-icons repo (Composer package sal/sal-blade-icons).
+You are in the sal-blade-icons repo (Composer package fvmichelon/sal-blade-icons).
 
 Add the icon(s) I provide in this message (SVG markup and/or .svg files).
 
@@ -79,7 +79,7 @@ Check the tag on GitHub: **Releases** or `https://github.com/Fvmichelon/sal-blad
 Do this **once**. After that, each new tag can update automatically.
 
 1. Sign in at [packagist.org](https://packagist.org) with GitHub.
-2. Confirm you can publish under the vendor **`sal`**. Packagist vendor names are claimed per account. If submit fails because `sal` is taken or not yours, either get access to that vendor or change `"name"` in `composer.json` (and this README) to a vendor you own, then commit before tagging.
+2. Confirm you can publish under the vendor **`fvmichelon`** (package name `fvmichelon/sal-blade-icons`). Packagist vendor names are claimed per account. The short vendor `sal` is already taken by unrelated packages — do not try to submit under `sal/`.
 3. [Submit package](https://packagist.org/packages/submit) → Git repository URL:
 
    `https://github.com/Fvmichelon/sal-blade-icons`
@@ -134,14 +134,14 @@ No extra `repositories` entry:
 
 ```bash
 cd path/to/laravel-app
-composer require sal/sal-blade-icons
+composer require fvmichelon/sal-blade-icons
 php artisan icons:cache
 ```
 
 Later, after a new tag:
 
 ```bash
-composer update sal/sal-blade-icons
+composer update fvmichelon/sal-blade-icons
 php artisan icons:cache
 ```
 
@@ -163,7 +163,7 @@ In the **Laravel app** `composer.json`:
 Private clone: use `git@github.com:Fvmichelon/sal-blade-icons.git` and an SSH key (or HTTPS credentials) on that machine.
 
 ```bash
-composer require sal/sal-blade-icons:^1.0
+composer require fvmichelon/sal-blade-icons:^1.0
 php artisan icons:cache
 ```
 
@@ -186,7 +186,7 @@ In the Laravel app `composer.json`, with this repo as a sibling directory:
 ```
 
 ```bash
-composer require sal/sal-blade-icons:@dev
+composer require fvmichelon/sal-blade-icons:@dev
 ```
 
 Useful to preview an icon before tagging. Not a distribution method.
@@ -221,7 +221,7 @@ Optional publish of config:
 php artisan vendor:publish --tag=sal-blade-icons-config
 ```
 
-SVGs install under `vendor/sal/sal-blade-icons/resources/svg`. Run `php artisan icons:cache` on deploy.
+SVGs install under `vendor/fvmichelon/sal-blade-icons/resources/svg`. Run `php artisan icons:cache` on deploy.
 
 ---
 
@@ -376,7 +376,7 @@ Upstream pin: `catalog/sync-meta.json`.
 ## Layout
 
 ```text
-composer.json                 # sal/sal-blade-icons
+composer.json                 # fvmichelon/sal-blade-icons
 src/SalBladeIconsServiceProvider.php
 config/sal-icons.php          # prefix: sal
 resources/svg/                # flatten published to Laravel (committed)

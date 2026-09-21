@@ -1,6 +1,6 @@
 # Contributing
 
-This repository **is** the Composer package `sal/sal-blade-icons`.
+This repository **is** the Composer package `fvmichelon/sal-blade-icons`.
 
 - **In a hurry:** copy the agent prompt at the top of [README.md](README.md), open a new agent chat, paste the prompt plus the SVG.
 - Add icons with `pnpm icons:add` (never drop files straight into `resources/svg/`).
