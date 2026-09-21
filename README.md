@@ -34,6 +34,9 @@ Rules you must follow:
 - regular = outline with REAL stroke, viewBox "0 0 256 256". fill = solid currentColor, no CSS stroke. duotone = two layers, keep opacity (typically 0.2 + solid), no CSS stroke.
 - 24×24 canvases are invalid as-is. Rescale the artwork into viewBox 0 0 256 256 before adding. Do not mix stroke-width scales (16 on 256 ≠ 2 on 24).
 - Reject <script>, on* handlers, foreignObject, javascript: / http(s): hrefs. Prefer pnpm icons:add (it sanitizes).
+- Prefer a filesystem path (folder or file via @) or pasted SVG markup. Cursor chat “attachments” of .svg often arrive only as PNG previews under the IDE assets cache — that is NOT the SVG source.
+- When I point to a path or paste markup: OPEN the .svg and READ its XML/source. Copy that markup into drafts/. Never treat an SVG as a raster/screenshot, never auto-trace or redraw from a preview/thumbnail, and never invent geometry from an image description of the icon.
+- If you cannot open the .svg and read its real source (e.g. chat only gave a PNG/preview/caption, or the path is missing): STOP. Ask me whether to (a) wait while I paste the SVG markup / @ a real folder or .svg path, or (b) proceed anyway with a best-effort recreation. Do not proceed with (b) unless I explicitly choose it.
 - Do NOT write by hand into resources/svg/. Save drafts under drafts/ (gitignored), then run:
   pnpm icons:add --name="human name" --variant=regular --file=drafts/whatever.svg
   Repeat per variant if I gave fill/duotone too.
