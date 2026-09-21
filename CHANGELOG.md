@@ -16,6 +16,7 @@ Package versions are **git tags** (for example `v1.0.0`), not a `version` field 
 
 ### Added
 
+- Icons (regular): `analyze`, `humanize`, `implement`, `optimize`, `search`, `transform`.
 - README: copy-paste agent prompt for adding SVGs, plus step-by-step publish / `composer require` / usage.
 
 ## [1.0.0] - 2026-09-21

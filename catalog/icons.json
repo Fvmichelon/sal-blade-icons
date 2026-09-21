@@ -222,6 +222,12 @@
       ]
     },
     {
+      "slug": "analyze",
+      "variants": [
+        "regular"
+      ]
+    },
+    {
       "slug": "anchor",
       "variants": [
         "regular",
@@ -6294,6 +6300,12 @@
       ]
     },
     {
+      "slug": "humanize",
+      "variants": [
+        "regular"
+      ]
+    },
+    {
       "slug": "hurricane",
       "variants": [
         "regular",
@@ -6363,6 +6375,12 @@
         "regular",
         "fill",
         "duotone"
+      ]
+    },
+    {
+      "slug": "implement",
+      "variants": [
+        "regular"
       ]
     },
     {
@@ -7974,6 +7992,12 @@
       ]
     },
     {
+      "slug": "optimize",
+      "variants": [
+        "regular"
+      ]
+    },
+    {
       "slug": "option",
       "variants": [
         "regular",
@@ -9379,6 +9403,12 @@
         "regular",
         "fill",
         "duotone"
+      ]
+    },
+    {
+      "slug": "search",
+      "variants": [
+        "regular"
       ]
     },
     {
@@ -11227,6 +11257,12 @@
         "regular",
         "fill",
         "duotone"
+      ]
+    },
+    {
+      "slug": "transform",
+      "variants": [
+        "regular"
       ]
     },
     {
